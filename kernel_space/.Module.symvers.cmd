@@ -1,0 +1,1 @@
+savedcmd_/home/jborthick/Documents/csc450/KernelSocketPrimer/kernel_space/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/jborthick/Documents/csc450/KernelSocketPrimer/kernel_space/Module.symvers -T /home/jborthick/Documents/csc450/KernelSocketPrimer/kernel_space/modules.order -i Module.symvers -e 
